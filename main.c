@@ -3,7 +3,8 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * main - Entry point 
+ * project by team Jude and Franklin
  *
  * Return: Always 0
  */
