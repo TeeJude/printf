@@ -7,8 +7,6 @@
 #define UNUSED(x) (void)(x)
 #define BUFF_SIZE 1024
 
-/* project by team Jude and Franklin */
-
 /* FLAGS */
 #define F_MINUS 1
 #define F_PLUS 2
